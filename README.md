@@ -1,7 +1,7 @@
 # Elena Perez Chagas
 
 
-<h1 align="center">¡Hola!👋</h1>
+<h1 align="center">¡Hello there! :stuck_out_tongue_winking_eye: </h1>
 <h3 align="center"> Bienvenidos a mi perfil :v:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chagas108&label=Profile%20views&color=0e75b6&style=flat" alt="chagas108" /> </p>
